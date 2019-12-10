@@ -15,7 +15,12 @@ Ads are only in the form of rewarded videos, that are never forced on you!
 
 Gameplay prewiew:
 https://www.youtube.com/watch?v=l-Qqb0Tlv5E
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-Qqb0Tlv5E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Screenshots:
+<img src="https://raw.githubusercontent.com/KrHo129/Unity-Game-Mobile-The_Wall_Adventure/master/Screenshoots-highRes/img5.png" alt="example_image"/>
+<img src="https://raw.githubusercontent.com/KrHo129/Unity-Game-Mobile-The_Wall_Adventure/master/Screenshoots-highRes/LoadingBG.png" alt="example_image"/>
+<img src="https://raw.githubusercontent.com/KrHo129/Unity-Game-Mobile-The_Wall_Adventure/master/Screenshoots-highRes/Corr1.png" alt="example_image"/>
+
 
 
 
