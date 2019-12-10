@@ -15,6 +15,10 @@ Ads are only in the form of rewarded videos, that are never forced on you!
 
 Gameplay prewiew:
 https://www.youtube.com/watch?v=l-Qqb0Tlv5E
+<video width="320" height="240" controls>
+  <source src="https://raw.githubusercontent.com/KrHo129/Unity-Game-Mobile-The_Wall_Adventure/blob/master/GamePlay_Video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 
