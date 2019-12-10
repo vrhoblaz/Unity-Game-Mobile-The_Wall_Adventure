@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1b11d4f23a6eb8c489bcfe93fbf745dc
+timeCreated: 1504278802
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - SunAudio: {fileID: 1812377756120856, guid: fe2cd7af2db61ef43b008c3826693cf4, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
